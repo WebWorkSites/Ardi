@@ -1,1 +1,1 @@
-Hello Dolly
+<?php echo 'hello world';
